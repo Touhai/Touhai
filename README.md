@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bryan Kou 
 - 👀 I’m interested in Web Dev, backend, Cloud Computing
 - 🌱 I’m currently learning AWS.
-- 
 
 <!---
 Touhai/Touhai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
