@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bryan Kou 
 - 👀 I’m interested in Web Dev, backend, Cloud Computing
-- 🌱 I’m currently learning AWS.
+- 🌱 I’m currently learning AWS, Javascript, Typescript.
 
 
 [![Touhai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Touhai)](https://github.com/Touhai/github-readme-stats)
